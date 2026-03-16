@@ -9,3 +9,9 @@
 # "Offline Status" on printer:
 - Casue: when we hit print, but accidently nothing happened. then we check the printer status and it show "Offline"
 - Solution: check the printer connection whether it's on the same connection with computer or not. If it doesn't work can try restart the printer and computer, then reconnect to the same network again.
+
+# Poor Print Quality:
+-Cause: have white line running through the page.
+-Solution: go to printer setting, run the "Clean Print Heads".
+
+*Note: printer should be printing regularly to avoid the ink frozen, especially for the printer that use liquid ink.
